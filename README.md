@@ -1,4 +1,4 @@
-[logo] (https://www.shutterstock.com/image-photo/hands-typing-on-laptop-programming-600nw-2480023489.jpg)
+![logo] (https://www.shutterstock.com/image-photo/hands-typing-on-laptop-programming-600nw-2480023489.jpg)
 <h1 align="center">Hi 👋, I'm Vandana</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
