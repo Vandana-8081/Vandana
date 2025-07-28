@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studying in computer science engineering **E-Shop**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Python JavaScript**
+- 💬 Ask me about ** JavaScript React.js**
 
 - 📫 How to reach me **vandanavairy8081@gmail.com**
 
