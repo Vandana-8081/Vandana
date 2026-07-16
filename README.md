@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **AWS Servises**
 
-- 💬 Ask me about ** MERN Stack**
+- 💬 Ask me about ** MERN Stack **
 
 - 📫 How to reach me **vandanavairy2004@gmail.com**
 
