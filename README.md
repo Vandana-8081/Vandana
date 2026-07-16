@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="code11" src="https://github.com/user-attachments/assets/1126f685-51d1-4d74-809e-965ecca24854" />
+<img width="1128" height="376" alt="VANDANA" src="https://github.com/user-attachments/assets/c13f3d8d-a23e-4d30-b03c-d3b14d7150dd" />
+
 
 <h1 align="center">Hi 👋, I'm Vandana</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
@@ -9,13 +10,13 @@
         src="https://komarev.com/ghpvc/?username=vandana-8081&label=Profile%20views&color=0e75b6&style=flat"
         alt="vandana-8081" /> </p>
 
-- 🔭 I’m currently studying in computer science engineering **E-Shop**
+- 🔭 I have recently gratuate in computer science & engineering
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AWS Servises**
 
-- 💬 Ask me about ** JavaScript React.js**
+- 💬 Ask me about ** MERN Stack**
 
-- 📫 How to reach me **vandanavairy8081@gmail.com**
+- 📫 How to reach me **vandanavairy2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
